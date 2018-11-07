@@ -23,7 +23,7 @@ Purpose: I experimented with generating 512x512 images from a custom dataset.  T
 Notes: Code unreleased.
 
 Example output image:
-![hd-gan](HD_GAN.png)
+<img src="HD_GAN.png" alt="hd-gan" width="1024"/>
 
 ### Char-RNN Generating Ulysses
 Purpose: I took one of my favorite texts and attempted to generate passages in its style.  
