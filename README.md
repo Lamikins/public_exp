@@ -20,9 +20,11 @@ I'm releasing several jupyter notebooks containing code I've written over the pa
 
 ### HD-GAN
 Purpose: I experimented with generating 512x512 images from a custom dataset.  This was before NVIDIA's progressive growing paper.
+
 Notes: Code unreleased.
 
 Example output image:
+
 <img src="HD_GAN.png" alt="hd-gan" width="512"/>
 
 ### Char-RNN Generating Ulysses
