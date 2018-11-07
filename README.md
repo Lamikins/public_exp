@@ -1,5 +1,5 @@
 ## A collection of ML/DL experiments
-### Darius Lam
+Author: Darius Lam
 
 I'm releasing several jupyter notebooks containing code I've written over the past several years. Below you will find descriptions of all of them (plus extras). Note that these were created for my own educational purposes.
 
